@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 data/
+
+# Project Plan and Checkbook
+PLAN.md
